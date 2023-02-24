@@ -1,0 +1,47 @@
+<!-- Crea tu primer formulario -->
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	  <meta charset="UTF-8">
+	  <title> Rellena tus datos</title>
+	</head>
+	<body>
+    <form action="/">
+      <fieldset>
+        <legend>Datos de usuario</legend>
+    <label for="username">
+	<p>Introduce tu nombre de usuario :</p>
+	<input name="username" type="text">
+</label>
+    <label for="fullname">
+	<p>Introduce tu nombre y apellidos : </p>
+	<input name="fullname" type="text">
+</label>
+    <label for="edad">
+	<p>Introduce tu fecha de nacimiento : </p>
+	<input name="edad" type="date">
+</label>
+   <p>conocimientos en programación  : </p>
+   <label for="CSS">CSS</label>
+   <input name="CSS" type = "checkbox">
+        <label for="JS">JS</label>
+   <input name="JS" type = "checkbox">
+        <label for="Python">Python</label>
+   <input name="Python" type = "checkbox">
+        <p>GENERO : </p>
+        <select>
+          <option value="hombre">HOMBRE</option>
+          <option value="MUJER">MUJER</option>
+          <option value="INDEFINIDO">INDEFINIDO</option>
+        </select>
+	<p>Contraseña : </p>
+	<input name="clave" type="text">
+  <p>Repite la contraseña : </p>
+	<input name="clave" type="text">
+  <input type="submit" value="enviar datos">
+  </fieldset>
+  </input>
+  </form>
+	</body>
+</html>

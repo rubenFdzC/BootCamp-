@@ -1,0 +1,42 @@
+<!-- Introduce el contenido visto hasta ahora para crear vuestra primera web estática.
+Elegid la temática que más os guste, por ejemplo super-héroes
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	  <meta charset="UTF-8">
+	  <title>Ejercicio numero 4</title>
+	</head>
+	<body>
+		<header>
+      <h2>APEGOS EN PSICOLOGÍA </h2>
+		</header>
+		<main>
+			<section>
+				<article>Que es el apego : </article>
+        <p> En psicología tenemos distintos de apegos en función de la crianza empleada durante el periodo de desarrollo en la infancia ,esto afecta a la conducta y personalidad del adulto y se desarrolla no por la crianza en si de los cuidadores sino por la visión del infante hacia ellos y lo que el asociaba con de su comportamiento.  
+			</section>
+      <section> 
+       <article>Tenemos 5 tipos de apegos distintos</article>
+        <p> - Apego seguro ; Este tipo de apego está caracterizado por la incondicionalidad: el niño sabe que su cuidador no va a fallarle. Se siente querido, aceptado y valorado. De acuerdo con Bowlby, este tipo de apego depende en gran medida de la constancia del cuidador en proporcionar cuidados y seguridad. Debe tratarse de una persona atenta y preocupada por comunicarse con el recién nacido, no sólo interesada en cubrir las necesidades de limpieza y alimentación del bebé. Desde luego, el inconveniente es que esto supone una entrega casi total de parte del cuidador o cuidadora, lo cual puede resultar complicado para algunas personas.</p>
+        <p> - Apego evitativo ; Los niños con un apego de tipo evitativo han asumido que no pueden contar con sus cuidadores, lo cual les provoca sufrimiento. Se conoce como “evitativo” porque los bebés presentan distintas conductas de distanciamiento. Por ejemplo, no lloran cuando se separan de cuidador, se interesan sólo en sus juguetes y evitan contacto cercano.
+          <p> - Apego desorganizado ; Es una mezcla entre el apego ansioso y el evitativo en que el niño presenta comportamientos contradictorios e inadecuados. Hay quienes lo traducen en una carencia total de apego.
+
+Lo constante en los cuidadores han sido conductas negligentes o inseguras. Se trata del extremo contrario al apego seguro. Casos de abandono temprano, cuya consecuencia en el niño es la pérdida de confianza en su cuidador o figura vincular, e incluso puede sentir constantemente miedo hacia ésta.
+
+Los menores tienen tendencia a conductas explosivas, destrucción de juguetes, reacciones impulsivas, así como grandes dificultades para entenderse con sus cuidadores y con otras personas.
+
+Evitan la intimidad, no han encontrado una forma de gestionar las emociones que esto les provoca, por lo que se genera un desbordamiento emocional de carácter negativo que impide la expresión de las emociones positivas.
+
+De adultos suelen ser personas con alta carga de frustración e ira, no se sienten queridas y parece que rechacen las relaciones, si bien en el fondo son su mayor anhelo. En otros casos, este tipo de apego en adultos puede encontrarse en el fondo de las relaciones conflictivas constantes. </p>
+        <p> - Apego ansioso ; En psicología, “ambivalente” significa expresar emociones o sentimientos contrapuestos, lo cual, frecuentemente genera angustia.  Por eso, en el caso de un apego ansioso-ambivalente el niño no confía en sus cuidadores y tiene una sensación constante de inseguridad, de que a veces sus cuidadores están y otras veces no están, lo constante en los cuidadores es la inconsistencia en las conductas de cuidado y seguridad.
+
+Las emociones más frecuentes en este tipo de apego, son el miedo y la angustia exacerbada ante las separaciones, así como una dificultad para calmarse cuando el cuidador vuelve. Los menores necesitan la aprobación de los cuidadores y vigilan de manera permanente que no les abandonen. Exploran el ambiente de manera poco relajada y procurando no alejarse demasiado de la figura de apego.
+
+De adultos, el apego ansioso-ambivalente provoca, una sensación de temor a que su pareja no les ame o no les desee realmente. Les resulta difícil interaccionar de la manera que les gustaría con las personas, ya que esperan recibir más intimidad o vinculación de la que proporcionan. Un ejemplo de este tipo de apego en los adultos es la dependencia emocional.
+          </main>
+		<footer>
+    </footer>
+	</body>
+</html>
